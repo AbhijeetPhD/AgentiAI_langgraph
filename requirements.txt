@@ -1,0 +1,16 @@
+langchain
+langgraph 
+langsmith
+python-dotenv
+ipykernel
+langchain-community
+langchain-core
+pypdf
+bs4
+arxiv
+pymupdf
+langchain-openai
+langchain_chroma
+langchain-ollama
+faiss-cpu
+langchain-groq
